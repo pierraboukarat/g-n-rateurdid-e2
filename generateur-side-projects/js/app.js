@@ -1,5 +1,6 @@
-const WEBHOOK_GENERATE_URL = "https://n8n.pierreaboukrat.com/webhook-test/a43b0c96-6dfe-45c3-88e3-915d5aed3db0";
-const WEBHOOK_LEAD_URL = "https://n8n.pierreaboukrat.com/webhook-test/a43b0c96-6dfe-45c3-88e3-915d5aed3db0";
+const N8N_WEBHOOK_URL = "http://n8n.pierreaboukrat.com/webhook/a43b0c96-6dfe-45c3-88e3-915d5aed3db0";
+const WEBHOOK_GENERATE_URL = "";
+const WEBHOOK_LEAD_URL = N8N_WEBHOOK_URL;
 const CALENDLY_PAGE_URL = "calendly.html";
 const LOCAL_SIDE_PROJECTS_DATA = {
   bricoleur: {
